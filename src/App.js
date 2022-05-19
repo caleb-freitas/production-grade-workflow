@@ -7,15 +7,20 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Helloooooooooooooo, you stupid piece of shit!
+          Vai tomar banho, Rafaela!
+        </p>
+        <p>
+          Ninguém aguenta mais ficar do seu lado...
+        </p>
+        <p>
+          As crianças estão chorando...
         </p>
         <a
-          className="App-link"
-          href="https://reactjs.org"
+          href="https://www.lorenzetti.com.br/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Comprar chuveiro
         </a>
       </header>
     </div>
